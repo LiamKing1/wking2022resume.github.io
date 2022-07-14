@@ -1,1 +1,44 @@
+body {
+  background-color: Brown;
+  margin: 75px 55px;
+}
+h1 {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  border-bottom: 1px solid tan;
+  color: tan
+}
+h3 {
+  font-size: 24px;
+  color: tan
+}
 
+h4 {
+  color: white;
+  font-size: 18px
+}
+
+h6 {
+  color: white
+}
+
+p {
+  color:white
+}
+
+.Experience {
+  text-align: center;
+  border-top: 1px solid tan;
+  border-bottom: 1px solid tan;
+  text-transform: uppercase;
+}
+
+.Education {
+  text-align: center;
+  border-top: 1px solid tan;
+  border-bottom: 1px solid tan;
+}
+
+.Professional {
+  border-bottom: 1px solid tan;
+}
